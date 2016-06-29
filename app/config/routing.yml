@@ -1,0 +1,5 @@
+js_app:
+    resource: "@JSAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
